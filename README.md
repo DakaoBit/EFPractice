@@ -12,5 +12,5 @@
 ### Step4. 設定Program.cs-加入AddDbContext
 
 ## 指令
-Add-Migration "此次移轉名稱" > 產生Migration
-Update-Database > 將產生的Migration 更新到設定的DB
+1. Add-Migration "此次移轉名稱" > 產生Migration
+2. Update-Database > 將產生的Migration 更新到設定的DB
