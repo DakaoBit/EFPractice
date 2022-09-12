@@ -1,4 +1,4 @@
-# EFPractice
+# EFPractice (使用 EntityFrameworkCore 的簡易範例)
 
 ## 前置作業
 ### Step1. 安裝套件
