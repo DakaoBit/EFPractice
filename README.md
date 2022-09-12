@@ -1,6 +1,6 @@
 # EFPractice
 
-##前置作業
+## 前置作業
 ### Step1. 安裝套件
 1. Microsoft.EntityFrameworkCore
 2. Microsoft.EntityFrameworkCore.Relational
@@ -11,6 +11,6 @@
 ### Step3. 設定ApplicationDbContext
 ### Step4. 設定Program.cs-加入AddDbContext
 
-##指令
+## 指令
 Add-Migration "此次移轉名稱" > 產生Migration
 Update-Database > 將產生的Migration 更新到設定的DB
